@@ -1,0 +1,20 @@
+.nav{
+    font-family: Helvetica,Helvetica,Arial,sans-serif;
+    font-weight: 600 !important;
+    letter-spacing: .5px;
+    
+}
+
+.blog-header{
+    font-family: Helvetica,Helvetica,Arial,sans-serif;
+    font-weight: 600 !important;
+    letter-spacing: .5px;
+}
+
+.text-muted {
+    color: black!important;
+}
+
+.nav-link {
+    color: black;
+}

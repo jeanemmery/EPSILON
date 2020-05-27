@@ -1,0 +1,51 @@
+@media screen and (max-width: 768px) {
+    .img-logo{
+        visibility: hidden;
+    }
+  }
+
+  
+  @media screen and (max-width: 768px) {
+    .nav{
+      font-size: 11px;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .col-sm{
+        max-width: 100% !important;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .img-product{
+        width: 337px !important;
+        height: 300px !important;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    #taille-form{
+        width: 20% !important;
+        margin-left: 41%;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .img-show{
+        width: 337px !important;
+        height: 337px !important;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    #container-gauche{
+        text-align: center;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .blog-footer{
+        margin-top: 50%;
+    }
+}
